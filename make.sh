@@ -9,3 +9,4 @@ g++ $FILES -o $PROG_NAME $DED_FLAGS
 echo "End compilation"
 
 ./array.exe
+
